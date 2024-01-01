@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://luizfelipegondim.github.io/numero-secreto/)
+- [Visite o projeto online](https://luizfelipegondim.github.io/Flappy-bird/)
 
 ## :memo: Licença
 
