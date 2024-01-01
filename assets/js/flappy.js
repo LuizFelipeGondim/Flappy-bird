@@ -167,4 +167,8 @@ function FlappyBird() {
   }
 }
 
-new FlappyBird().start();
+const iniciarJogo = confirm("Aperte a tecla espaco para iniciar o jogo");
+
+if (iniciarJogo) {
+  new FlappyBird().start();
+}
